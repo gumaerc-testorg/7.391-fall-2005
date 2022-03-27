@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 27a5598f-438d-35a0-e563-1445ac9c0563
 resourcetype: Document
 title: misconceptions.pdf
 uid: fea2e75d-06f9-db02-be05-0ef063c91d8d

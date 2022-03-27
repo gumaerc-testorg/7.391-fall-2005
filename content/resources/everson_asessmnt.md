@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 27a5598f-438d-35a0-e563-1445ac9c0563
 resourcetype: Document
 title: everson_asessmnt.pdf
 uid: fdb773f8-acfa-f1b9-1ba1-2c504d0a5c96

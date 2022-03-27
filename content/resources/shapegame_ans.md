@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 27a5598f-438d-35a0-e563-1445ac9c0563
 resourcetype: Document
 title: shapegame_ans.pdf
 uid: ba997723-9658-98f8-3598-130d8f0e4bc8

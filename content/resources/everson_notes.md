@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 27a5598f-438d-35a0-e563-1445ac9c0563
 resourcetype: Document
 title: everson_notes.pdf
 uid: a107cdfe-f139-e8ab-2c92-1bccebd7ba64
