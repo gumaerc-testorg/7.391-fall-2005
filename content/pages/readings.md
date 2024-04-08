@@ -36,7 +36,7 @@ READINGS
 Introduction - Understanding by Design and the BCF
 {{< tdclose >}}
 {{< tdopen >}}
-We will begin by introducing ourselves and talking about what each of us hopes to get out of the class, our backgrounds and sources of interest in the subject of the seminar. We will introduce the concepts of integrated curriculum and concept-centered learning. We will also discuss how these principles can be applied to the courses where we have only limited influence. We will also introduce the [BCF, the biology concept framework](http://web.mit.edu/bioedgroup/HBCF/CBE-Summer2004.htm), and we will talk briefly about how such an instrument can be beneficial in teaching and learning.
+We will begin by introducing ourselves and talking about what each of us hopes to get out of the class, our backgrounds and sources of interest in the subject of the seminar. We will introduce the concepts of integrated curriculum and concept-centered learning. We will also discuss how these principles can be applied to the courses where we have only limited influence. We will also introduce the {{% resource_link "63287cc6-76c4-4497-9300-e7355887524c" "BCF, the biology concept framework" %}}, and we will talk briefly about how such an instrument can be beneficial in teaching and learning.
 {{< tdclose >}}
 {{< tdopen >}}
  
