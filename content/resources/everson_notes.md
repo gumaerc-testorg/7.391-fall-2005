@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a discussion by guest speaker, Dr. Howard Everson on
   the topic meaningful assessment.
-file: /courses/7-391-concept-centered-teaching-fall-2005/a107cdfef139e8ab2c921bccebd7ba64_everson_notes.pdf
+file: /ol-ocw-studio-app/courses/7-391-concept-centered-teaching-fall-2005/a107cdfef139e8ab2c921bccebd7ba64_everson_notes.pdf
 file_size: 46832
 file_type: application/pdf
 learning_resource_types: []
